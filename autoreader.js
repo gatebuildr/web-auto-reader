@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://en.wikipedia.org/wiki/*
-// @match        https://stargate.fandom.com/wiki/*
+// @match        https://**.fandom.com/wiki/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wikipedia.org
 // @require      https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js
 // @require      https://gist.githubusercontent.com/gatebuildr/c5da97db589cfb983b2cbf9a1a602ff9/raw/453b994b6723d15e8c772e8de1351fde90c15f91/waitForIt.js
